@@ -31,11 +31,10 @@ The same error also appeared for 'Glastopf' where 'setuptools' was not up-to-dat
 
 ## Summary of Data
 
-<img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/top5ips.png">
-<img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/top5pots.png">
+<img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/top5ips.png"><img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/top5pots.png">
 <img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/sensors.png">
-<img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/payloadssnorts.png">
-<img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/payloadsuricata.png">
+<img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/payloadssnort.png">
+<img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/payloadssuricata.png">
 <img src="https://raw.githubusercontent.com/cheezm91/CodePathWeek9/master/kippotop.png">
 
 ## Bonus Objectives
